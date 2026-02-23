@@ -56,7 +56,7 @@ Data was cleaned and transformed using Power Query before building relationships
 ---
 
 ## 📷 Dashboard Preview
-()
+(https://github.com/sumanjadar-creator/Credit_Card_-Financial_-Dashboard/blob/main/Screenshot%202026-02-23%20181227.png)
 
 ---
 
